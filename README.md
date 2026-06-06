@@ -192,7 +192,7 @@
 
 ## 💡 Quote I Follow
 
-> "Success is built one line of code at a time."
+> "I can do all things through Christ which strengtheneth me. Philippians 4:13"
 
 ---
 
