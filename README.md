@@ -22,7 +22,7 @@
 
 🎨 Skilled in Video Editing, Graphic Design, and Content Creation
 
-📈 Current SGPA: **8.64**
+📈 Current SGPA: **8.93**
 
 🎯 Goal: Become a Professional Full Stack Software Engineer
 
@@ -48,7 +48,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,php,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,php,c,c++" />
 </p>
 
 ### Frontend Development
